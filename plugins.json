@@ -1,0 +1,19 @@
+[
+    {
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/C10udburst/cloudstream-misc",
+        "fileSize": 6221,
+        "status": 1,
+        "authors": [
+            "Cloudburst"
+        ],
+        "tvTypes": [
+            
+        ],
+        "version": 1,
+        "internalName": "PasswordPlugin",
+        "description": "Adds a password prompt on startup",
+        "url": "https://raw.githubusercontent.com/C10udburst/cloudstream-misc/builds/PasswordPlugin.cs3",
+        "name": "PasswordPlugin"
+    }
+]

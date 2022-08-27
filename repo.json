@@ -1,0 +1,8 @@
+{
+    "name": "Cloudstream password extension",
+    "description": "Contains an extension which lets you lock the app with a password.",
+    "manifestVersion": 1,
+    "pluginLists": [
+      "https://raw.githubusercontent.com/C10udburst/cloudstream-misc/builds/plugins.json"
+    ]
+  }
