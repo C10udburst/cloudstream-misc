@@ -42,7 +42,7 @@ class PasswordPlugin: Plugin() {
 
             val input = view.findViewById<EditText>(this.resources!!.getIdentifier("password", "id", BuildConfig.LIBRARY_PACKAGE_NAME))
             val btn = view.findViewById<Button>(this.resources!!.getIdentifier("loginButton", "id", BuildConfig.LIBRARY_PACKAGE_NAME))
-            btn.text = context.getString(R.string.login)
+            btn.text = "Unlock"
             btn.setTextColor(ColorStateList.valueOf(view.context.colorFromAttribute(R.attr.white)))
             btn.setOnClickListener {
                 val psk = getKey<String>(APP_PSK_KEY)
